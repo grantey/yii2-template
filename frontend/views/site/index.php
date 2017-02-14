@@ -26,10 +26,6 @@ $this->title = 'Довженко';
     ]
 ]); ?>
 
-<!-- Телефон -->
-<?= $this->render('_contactsPhone');?>
-<hr />
-
 <!-- Новости -->
 <div class="news animated-steps3">
     <div class="container animated-steps3-box hidden-block">
