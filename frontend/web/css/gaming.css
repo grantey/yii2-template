@@ -1,0 +1,823 @@
+/* bg1 pad*/
+.bg_two_double {
+	padding-top: 30px;
+	padding-bottom: 70px;
+	color: #fff;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-1.png);
+	background-size: cover;
+}
+.bg_two_mobile {
+	padding-top: 30px;
+	padding-bottom: 70px;
+	color: #fff;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-1.png);
+	background-size: cover;
+}
+.bg_two_h2 {
+	padding-bottom: 70px;
+}
+.bg_two_color {
+	color: #65C25D;
+}
+.whats_happening_marker img {
+	max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+}
+.bg_one_bg img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+}
+.bg_one_bg img {
+    padding-left: 0px;
+}
+.bg_two_p_one {
+	margin-right: 60px;
+}
+.bg_two_p {
+	padding-top: 30px;
+	color: #c3c2c2;
+}
+.bg_two_mobile_p {
+	margin-top: 10px;
+}
+.work_mobile {
+	padding-bottom: 30px;
+}
+.work_mobile_p {
+	padding-top: 10px;
+	padding-bottom: 40px;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start Slider */
+.slider {
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/slider.png) 40% 100% no-repeat;
+	background-size: cover;
+}
+.slider_border {
+	font-size: 16px;
+	width: 290px; height: 55px;
+    background: #EE4E25;
+	padding-top: 5px;
+	padding-left: 20px;
+	color: #fff;
+}
+.slider_one {
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 34px;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: -20px;
+}
+.slider_two {
+	color: #EE4E25;
+	font-size: 60px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.slider_three {
+	color: #fff;
+	padding-top: 30px;
+	font-size: 14px;
+}
+.slider_cons {
+	padding-left: 180px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.slider-form{
+	background-color: rgba(0, 0, 0, 0.25);
+        color: #fff;
+}
+.slider-form .modal-form-header, .slider-form input {
+    color: #fff !important;
+}
+.slider-form ::-webkit-input-placeholder {color:#fff !important;}
+.slider-form ::-moz-placeholder          {color:#fff !important;}/* Firefox 19+ */
+.slider-form :-moz-placeholder           {color:#fff !important;}/* Firefox 18- */
+.slider-form :-ms-input-placeholder      {color:#fff !important;}
+
+.slider-form .has-error .help-block {
+    color: #fff !important;
+}
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start ��� �� �������� ? */
+.how_we_are_working {
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+.how_we_are_working_h2 {
+	padding-bottom: 30px;
+}
+/* Finish Slider */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start Bg-1 */
+.bg_one {
+	padding-top: 30px;
+	padding-bottom: 70px;
+	color: #fff;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-1.png);
+	background-size: cover;
+}
+.bg_one_bg img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+}
+.bg_one_h2 {
+	padding-bottom: 70px;
+}
+.bg_one_color {
+	color: #65C25D;
+}
+.bg_one_p {
+	padding-top: 40px;
+}
+/* Finish Bg-1 */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start ������� */
+.phone {
+	padding-top: 70px;
+	background: #fff;
+	padding-bottom: 55px;
+}
+.phone_p_one {
+	font-size: 18px;
+	margin-top: -10px;
+}
+.phone_p_two {
+	font-size: 30px;
+	color: #EE5028;
+	font-weight: bold;
+}
+.phone_p_three {
+	font-size: 14px;
+	margin-top: -14px;
+}
+/* Finish ������� */
+/* Start bg-2 */
+.bg_three {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: #DCDCDC;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-2.png);
+	background-size: cover;
+	line-height: 1.2em;
+	font-size: 14px;
+}
+.bg_three_left, .bg_three_right {
+	margin-top: 30px;
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.bg_three_right {
+	text-align: right;
+}
+.bg_three_right > p, .bg_three_left > p {
+	display: inline-block;
+}
+.bg_three_left > img {
+	float: left;
+	margin-right: 20px;
+}
+.bg_three_right > img {
+	float: right;
+	margin-left: 20px;
+}
+.bg_three_p {
+	margin-top: 15px;
+}
+.bg_three_center {
+	margin-top: 40px;
+	text-align: center;
+}
+/* Pad */
+.bg_three_pad {
+	padding-top: 30px;
+	padding-bottom: 70px;
+	color: #DCDCDC;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-2.png);
+	background-size: cover;
+	line-height: 1.2em;
+	font-size: 13px;
+}
+.bg_three_pad_md {
+	padding-left: 140px;
+}
+.bg_three_center_pad {
+	padding-bottom: 10px;
+	text-align: center;
+}
+.bg_three_p_pad {
+	margin-top: 30px;
+}
+/* Mobile */
+.bg_three_mobile {
+	padding-top: 30px;
+	padding-bottom: 70px;
+	color: #DCDCDC;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-2.png);
+	background-size: cover;
+	line-height: 1.2em;
+	font-size: 13px;
+}
+.bg_three_mobile_padding {
+	padding-bottom: 40px;
+}
+.bg_three_mobile_padding_two {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.bg_three_mobile_padding_p {
+	margin-top: 10px;
+}
+/* Finish bg-2 */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start ������������ ������ */
+.work {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.work_h2 {
+	padding-bottom: 50px;
+}
+.work_p {
+	padding-top: 20px;
+}
+.work_div {
+	width: 20%;
+}
+/* ---------------------------------------------------------- */
+.work_double {
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+.work_double_col {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.work_h2 {
+	padding-bottom: 60px;
+}
+.work_p {
+	padding-top: 20px;
+}
+.work_double_padding {
+	padding-top: 50px;
+}
+/* Finish ������������ ������ */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start �������� */
+.dovjenko {
+	padding-top: 30px;
+	padding-bottom: 50px;
+	color: #fff;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-4.png);
+	background-size: cover;
+}
+.dovjenko_p_one {
+	font-size: 16px;
+	font-style: italic;
+	color: #d8d7d7;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.dovjenko_p_two {
+	font-weight: bold;
+	margin-top: -15px;
+	padding-bottom: 20px;
+}
+/* Finish �������� */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start ��� �������� � ������� ������������ ? */
+.whats_happening {
+	color: #EBE5E6;
+	font-family: Verdana;
+	padding-top: 30px;
+	padding-bottom: 40px;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-3.png);
+	background-size: cover;
+}
+.whats_happening img {
+    width: 88px;
+}
+.whats_happening_h3 {
+	font-weight: bold;
+	color: #EE4E25;
+	text-transform: uppercase;
+	font-size: 44px;
+}
+.whats_happening_p {
+	text-align: center;
+	padding-top: 20px;
+	font-size: 14px;
+}
+.whats_happening_marker {
+	text-align: center;
+	padding-top: 50px;
+}
+.double_whats_happening {
+	text-align: left;
+	color: #EBE5E6;
+	font-family: Verdana;
+	padding-top: 30px;
+	padding-bottom: 60px;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-3.png);
+	background-size: cover;
+}
+.double_whats_happening_h3 {
+	font-weight: bold;
+	color: #EE4E25;
+	text-transform: uppercase;
+	font-size: 44px;
+}
+.double_whats_happening_p_one {
+	text-align: center;
+	padding-top: 20px;
+	font-size: 14px;
+}
+.double_whats_happening_p_two {
+	overflow: hidden;
+	margin-top: 30px;
+}
+.double_whats_happening_p_three {
+	overflow: hidden;
+}
+.double_whats_happening_marker {
+	padding-top: 50px;
+	padding-left: 50px;
+}
+.double_whats_happening_p_two_left {
+	padding-left: 20%;
+}
+.leftimg {
+    float:left;
+    margin: 7px 7px 7px 0;
+}
+.mobile_whats_happening {
+	text-align: left;
+	color: #EBE5E6;
+	font-family: Verdana;
+	padding-top: 30px;
+	padding-bottom: 60px;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-3.png);
+	background-size: cover;
+}
+/* Finish ��� �������� � ������� ������������ ? */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+
+@media (min-width: 1200px) {
+.bg_two_double {
+	display: none;
+}
+.work_mobile {
+	display: none;
+}
+.work_double {
+	display: none;
+}
+.whats_happening {
+	display: none;
+}
+.mobile_whats_happening {
+	display: none;
+}
+.address_br {
+	display:none;
+}
+.bg_three_pad {
+	display: none;
+}
+.bg_three_mobile {
+	display: none;
+}
+.bg_one_pad {
+	display: none;
+}
+.bg_two_mobile {
+	display: none;
+}
+.slider_br {
+	display: none;
+}
+.footer_br {
+	display: none;
+}
+}
+@media (min-width: 995px) and (max-width: 1200px) {
+.bg_two_double {
+	display: none;
+}
+.work_mobile {
+	display: none;
+}
+.address_br {
+	display:none;
+}
+.work_double {
+	display: none;
+}
+.bg_two_mobile {
+	display: none;
+}
+.bg_one_pad {
+	display: none;
+}
+.bg_two_p_four {
+	float: right;
+}
+.footer_br {
+	display: none;
+}
+.whats_happening {
+	display: none;
+}
+.mobile_whats_happening {
+	display: none;
+}
+.slider_cons {
+	padding-left: 0px;
+}
+.bg_three_b {
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+}
+.bg_two_p_three {
+	margin-right: -60px;
+}
+.bg_three {
+	color: #DCDCDC;
+	font-size: 11px;
+}
+.slider_br {
+	display: none;
+}
+.bg_three {
+	display: none;
+}
+.bg_three_mobile {
+	display: none;
+}
+}
+@media (min-width: 769px) and (max-width: 994px) {
+.menu_main {
+	font-size: 12px;
+}
+.footer_br {
+	display: none;
+}
+.slider_br {
+	display: none;
+}
+.bg_two_mobile {
+	display: none;
+}
+.address_number_one {
+    font-size: 22px;
+}
+.work_mobile {
+	display: none;
+}
+.bg_one {
+	display: none;
+}
+.work_double {
+	display: none;
+}
+.bg_two_p_one {
+	margin-right: 50px;
+}
+.bg_two_p_four {
+	float: right;
+}
+.bg_two_p_three {
+	margin-right: -20px;
+}
+.bg_two_p_two {
+	margin-right: 20px;
+}
+.slider_cons {
+	padding-left: 0px;
+}
+.double_whats_happening {
+	display: none;
+}
+.mobile_whats_happening {
+	display: none;
+}
+.bg_one_pad {
+	display: none;
+}	
+.slider {
+	font-size: 90%;
+}
+.slider_two {
+	font-size: 45px;
+}
+.slider_border {
+	font-size: 16px;
+}
+.pad_footer {
+	display: none;
+}
+.bg_three {
+	display: none;
+}
+.bg_three_mobile {
+	display: none;
+}
+}
+@media (min-width: 514px) and (max-width: 769px) {
+.header_two {
+	display: none;
+}
+.slider_br {
+	display: none;
+}
+.bg_two_mobile {
+	display: none;
+}
+.dovjenko {
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+.work_mobile {
+	display: none;
+}
+.double_whats_happening_marker {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding: 0;
+}
+.bg_three_right > p, .bg_three_left > p {
+    display: block;
+}
+.how_we_are_working_h2 {
+    padding-bottom: 35px;
+    padding-top: 10px;
+}
+.bg_one {
+	display: none;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #66C25D;
+}
+.work {
+	display: none;
+}
+.bg_two_p_one {
+	margin-right: 10px;
+}
+.bg_two_p_four {
+	margin-right: -10px;
+}
+.double_whats_happening {
+	display: none;
+}
+.mobile_whats_happening {
+	display: none;
+}
+.work_double_padding {
+	padding-top: 0px;
+}
+.slider_two {
+    font-size: 45px;
+}
+.slider_one {
+    font-size: 45px;
+    margin-top: 25px;
+    margin-bottom: -5px;
+}
+.slider_cons {
+	display: none;
+}
+.slider_three {
+    padding-bottom: 40px;
+    padding-top: 30px;
+    font-size: 14px;
+}
+.slider {
+	font-size: 80%;
+}
+.slider_border {
+ font-size: 16px;
+}
+.bg_three {
+	display: none;
+}
+.bg_three_mobile {
+	display: none;
+}
+}
+@media (min-width: 400px) and (max-width: 513px) {
+.bg_two_double {
+	display: none;
+}
+.header_three {
+	display: none;
+}
+.container-fluid {
+    padding-left: 0px;
+}
+.slider {
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/slider.png) 46% 100%;
+	background-size: cover;
+}
+.work_h2 {
+    padding-bottom: 40px;
+    padding-top: 50px;
+}
+.whats_happening_h3 {
+    font-size: 30px;
+}
+.whats_happening_marker {
+    padding-top: 30px;
+}
+.how_we_are_working {
+    padding-top: 45px;
+    padding-bottom: 60px;
+}
+.slider_one {
+    font-size: 30px;
+    margin-top: 25px;
+    margin-bottom: -2px;
+}
+.slider_two {
+    font-size: 30px;
+}
+.slider_three {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mobile_whats_happening {
+	text-align: left;
+	color: #EBE5E6;
+	font-family: Verdana;
+	padding-top: 30px;
+	padding-bottom: 60px;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-3.png) 34% 100%;
+	background-size: cover;
+}
+.navbar-default .navbar-toggle {
+	margin-left: 10px;
+    background: #66C25D;
+    border-color: #66C25D;
+}
+.work {
+	display: none;
+}
+.work_double {
+	display: none;
+}
+.bg_one {
+	display: none;
+}
+.double_whats_happening {
+	display: none;
+}
+.whats_happening {
+	display: none;
+}
+.slider_cons {
+	display: none;
+}
+.slider {
+	font-size: 70%;
+}
+.slider_border {
+ font-size: 16px;
+}
+.bg_three {
+	display: none;
+}
+.bg_three_pad {
+	display: none;
+}
+}
+@media (min-width: 0px) and (max-width: 399px) {
+.double_whats_happening_h3 {
+    font-weight: bold;
+    color: #EE4E25;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+.bg_two_double {
+	display: none;
+}
+.bg_one {
+	display: none;
+}
+.slider {
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/slider_mobile.png);
+	background-size: cover;
+}
+.mobile_whats_happening {
+	text-align: left;
+	color: #EBE5E6;
+	font-family: Verdana;
+	padding-top: 30px;
+	padding-bottom: 60px;
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/bg-3.png) 34% 100%;
+	background-size: cover;
+}
+.work {
+	display: none;
+}
+.work_double {
+	display: none;
+}
+.double_whats_happening {
+	display: none;
+}
+.whats_happening {
+	display: none;
+}
+.slider_cons {
+	display: none;
+}
+.logo {
+	width: 200%;
+	height: 200%;
+}
+.slider {
+	font-size: 80%;
+}
+.bg_three {
+	display: none;
+}
+.bg_three_pad {
+	display: none;
+}
+.slider {
+	font-size: 80%;
+}
+.slider_one {
+	font-size: 30px;
+	padding-top: 30px;
+	line-height: 1.2em;
+	margin-top: -7px;
+}
+.slider_two {
+	font-size: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	line-height: 1em;
+}
+.mark_kont_img {
+	margin-top: -3px;
+    margin-right: 7px;
+}
+.whats_happening_h3 {
+    font-size: 28px;
+}
+.slider_border {
+	padding-left: 10px;
+	font-size: 12px;
+    width: 203px;
+    height: 45px;
+}
+.slider {
+    width: 100%;
+	height: 100%;
+	background: url(../img/igromania/slider.png) 50% 100% no-repeat;
+	background-size: cover;
+}
+}
