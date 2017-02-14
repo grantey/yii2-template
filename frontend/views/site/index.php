@@ -24,7 +24,7 @@ $this->title = 'Довженко';
         'class' => 'form-horizontal',
         'buttonText' => 'Отправить',
     ]
-]); ?>  
+]); ?>
 
 <!-- Телефон -->
 <?= $this->render('_contactsPhone');?>
