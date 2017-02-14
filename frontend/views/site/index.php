@@ -1,11 +1,8 @@
 <?php
 
-use frontend\assets\IndexAsset;
 use yii\helpers\Html;
 use yii\widgets\ListView;
 use common\widgets\contacts\ContactFormWidget;
-
-IndexAsset::register($this);
 
 /* @var $this yii\web\View */
 

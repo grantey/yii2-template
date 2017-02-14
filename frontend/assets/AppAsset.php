@@ -16,7 +16,6 @@ class AppAsset extends AssetBundle
         'css/common_style.css',
     ];
     public $js = [        
-        //'http://code.jquery.com/jquery.js',
         'js/viewportchecker.js',
         'js/jquery.maskedinput.min.js',
         'js/custom.js',

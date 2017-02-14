@@ -28,23 +28,6 @@ $this->registerJs($script, yii\web\View::POS_READY);
 
 ?>
 
-<!-- Адрес -->
-<div class="address animated-block">
-    <div class="container">
-        <div class="row">
-            <h2 class="address_h2">Как нас найти ?</h2>
-            <div class="col-sm-4">
-                <img src="img/contact-icon1.png" alt="adress"><p><b>Адрес: </b> г. Москва, 3-й Павловский переулок, дом 1,корп. 57, стр. 3, Офисный центр "М-стиль"</p>
-            </div>
-            <div class="col-sm-4">
-                <img src="img/contact-icon2.png" alt="phone"><p><a href="tel:+74952121808" class="address-phone"><span>+7 (495)</span> 212-18-08</a></p>
-            </div>
-            <div class="col-sm-4">
-                <img src="img/contact-icon3.png" alt="email"><p><b>E-mail:</b> <a href="mailto:info@dovjenko-center.ru" class="address-email">info@dovjenko-center.ru</a></p>
-            </div>
-        </div>
-    </div>
-</div>
 <!-- Карта -->
 <div class="container-fluid animated-block">
     <div id="map"></div>
