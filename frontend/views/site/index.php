@@ -6,12 +6,12 @@ use common\widgets\contacts\ContactFormWidget;
 
 /* @var $this yii\web\View */
 
-$this->title = 'Р”РѕРІР¶РµРЅРєРѕ';
+$this->title = 'Довженко';
 
 ?>
 
 <?= ContactFormWidget::widget([    
-    'header' => 'Р—Р°РїРёСЃР°С‚СЊСЃСЏ РЅР° РїСЂРёС‘Рј',                
+    'header' => 'Записаться на приём',                
     'fields' => ['name', 'phone'],
     'modal' => true,
     'modalOptions' => [
@@ -22,15 +22,19 @@ $this->title = 'Р”РѕРІР¶РµРЅРєРѕ';
     'formOptions' => [
         'id' => 'signer-form',
         'class' => 'form-horizontal',
-        'buttonText' => 'РћС‚РїСЂР°РІРёС‚СЊ',
+        'buttonText' => 'Отправить',
     ]
 ]); ?>  
 
-<!-- РќРѕРІРѕСЃС‚Рё -->
+<!-- Телефон -->
+<?= $this->render('_contactsPhone');?>
+<hr />
+
+<!-- Новости -->
 <div class="news animated-steps3">
     <div class="container animated-steps3-box hidden-block">
         <div class="row">
-            <h2 class="text-center news_h2">РќРѕРІРѕСЃС‚Рё/РЎС‚Р°С‚СЊРё</h2>
+            <h2 class="text-center news_h2">Новости/Статьи</h2>
             <?= ListView::widget([
                 'dataProvider' => $dataProvider,
 
@@ -48,14 +52,14 @@ $this->title = 'Р”РѕРІР¶РµРЅРєРѕ';
                     'class' => 'news-item',
                 ],
 
-                'emptyText' => '<p>РЎРїРёСЃРѕРє РїСѓСЃС‚</p>',
+                'emptyText' => '<p>Список пуст</p>',
                 'emptyTextOptions' => [
                     'tag' => 'p'
                 ],
             ]);
             ?>
             <div class="col-md-12 text-left">
-                <?= Html::a('Р’РµСЃСЊ СЃРїРёСЃРѕРє', ['/news'], ['class' => 'news_color open-modal-1 news-all']) ?>
+                <?= Html::a('Весь список', ['/news'], ['class' => 'news_color open-modal-1 news-all']) ?>
             </div>
         </div>
     </div>
