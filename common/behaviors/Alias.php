@@ -37,7 +37,7 @@ class Alias extends Behavior
 	}
 
 	private function generateAlias( $alias )
-	{\file_put_contents("test.txt", '+', FILE_APPEND);
+	{
 		$alias = $this->aliasify( $alias );
 		if ( $this->checkUniqueAlias( $alias ) == 0 ) {
 			return $alias;

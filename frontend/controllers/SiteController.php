@@ -83,57 +83,7 @@ class SiteController extends Controller
         
         return $this->render('index', [
             'dataProvider' => $dataProvider,            
-        ]);
-    }
-    
-    public function actionAlcohol()
-    {
-        return $this->render('alcohol');
-    }
-    
-    public function actionAlcoholTriad()
-    {
-        return $this->render('alcohol-triad');
-    }
-    
-    public function actionAlcoholReasonable()
-    {
-        return $this->render('alcohol-reasonable');
-    }
-    
-    public function actionSmoking()
-    {
-        return $this->render('smoking');
-    }
-    
-    public function actionFulness()
-    {
-        return $this->render('fulness');
-    }
-    
-    public function actionGaming()
-    {
-        return $this->render('gaming');
-    }
-
-    public function actionRelatives()
-    {
-        return $this->render('relatives');
-    }
-    
-    public function actionSpecialists()
-    {
-        return $this->render('specialists');
-    }
-    
-    public function actionTraining()
-    {
-        return $this->render('training');
-    }
-    
-    public function actionPublication()
-    {
-        return $this->render('publication');
+        ]);;
     }
     
     public function actionContacts()
@@ -232,16 +182,6 @@ class SiteController extends Controller
         return $this->render('newsview', [
             'model' => $model,
         ]);
-    }
-
-    /**
-     * Displays about page.
-     *
-     * @return mixed
-     */
-    public function actionAbout()
-    {
-        return $this->render('about');
     }
 
     /**
