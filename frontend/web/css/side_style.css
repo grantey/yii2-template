@@ -1,0 +1,179 @@
+h1 {
+    margin: 40px 0;
+    text-align: center;
+    color: #66C25D;
+}
+
+/* Start Specialists */
+.specs {
+    padding-bottom: 50px;
+}
+.specs {
+    text-align: justify;
+}
+.specs_div {
+    font-weight: bold;
+}
+.specs_padding {
+    padding-top: 30px;
+}
+.specs_div_oo {
+    padding-top: 15px;
+    font-weight: bold;
+}
+/* Finish Specialists */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start Training */
+.kurs {
+    padding-bottom: 30px;
+}
+.kurs_p {
+    text-align: justify;
+}
+.kurs_b {
+    font-weight: bold;
+}
+.kurs img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+}
+.kurs_foto {
+    padding-bottom: 20px;
+    padding-top: 30px;
+    text-align: center;
+}
+/* Finish Training */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start Publication */
+.ow {
+    padding-bottom: 30px;
+}
+.ow p {
+    color: #1B8E46;
+}
+.ow em {
+    color: #1B8E46;
+}
+.book-box {
+    border: 1px solid #ddd;
+    width: 310px;
+    height: 450px;
+    padding: 30px;
+    margin: 0 auto;
+    display: block;
+}
+.book-box:hover {
+    background: #C3F6BD;
+}
+.ow_padding {
+    padding: 20px 0;
+    text-align: center;
+}
+.ow img {
+    padding-bottom: 10px;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+}
+/* Finish Publication*/
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start News */
+.news-title {
+    font-size: 16px;
+}
+.news-title span {
+    font-weight: bold;
+}
+.pagination > li > a, .pagination > li > span {
+    border: none;
+}
+.pagination > li > a {
+    color: #000;
+}
+.pagination > .active > a, .pagination > .active > a:hover {
+    background-color: #1B8E46;
+}
+.pagination > li > a:hover {
+    color: #000;
+    background-color: #C3F6BD;
+}
+.news-summary {
+    margin-left: 10px;
+}
+/* Finish News */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start Comments */
+.comment-title {
+    font-size: 16px;
+}
+.comment-title span {
+    font-weight: bold;
+}
+.field-commentform-body.has-error .help-block {
+    top: -15px;
+}
+/* Finish Comments
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start About */
+.o-center {	
+	padding-bottom: 50px;
+        text-align: justify;
+}
+.o-center_div {
+	font-weight: bold;
+}
+.o_center_h3 {
+	display: inline-block;
+	width: 700px;
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-top: 30px;
+}
+.o-center_li {
+	padding-bottom: 10px;
+}
+.o-center ul {
+	padding: 0;
+	margin-left: 20px;
+}
+/* Finish About */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+/* Start Contacts */
+.kak-dobratsa {
+    margin-top: 40px;
+    text-align: center;
+}
+/* Finish Contacts */
+/* ----------------------------------------------------------------------------------------------------------------------------- */
+
+@media (min-width: 1200px) {
+    .specs_hr {
+        display: none;
+    }
+}
+@media (min-width: 996px) and (max-width: 1200px) {
+    .specs_hr {
+        display: none;
+    }
+}
+@media (min-width: 769px) and (max-width: 995px) {
+    .specs_hr {
+        display: none;
+    }
+}
+@media (min-width: 515px) and (max-width: 768px) {
+    h1 {
+        font-size: 30px;
+    }
+}
+@media (min-width: 400px) and (max-width: 514px) {
+    h1 {
+        font-size: 22px;
+    }
+}
+@media (min-width: 0px) and (max-width: 399px) {
+    h1 {
+        font-size: 22px;
+    }
+}
